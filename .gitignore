@@ -1,0 +1,14 @@
+# RStudio / R session cruft
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# tigris shapefile cache (large, and regenerated on demand)
+*.shp
+*.dbf
+*.shx
+*.prj

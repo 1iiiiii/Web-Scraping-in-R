@@ -1,0 +1,300 @@
+state_name,state_abbr,city,name,street,zip,hours,coming_soon
+Arkansas,AR,Bentonville,Bentonville,1701 Southeast 8th Street #11,72712,Mon - Fri 10:00am - 8:00pm Sat - Sun 11:00am - 4:00pm,FALSE
+Arkansas,AR,Fayetteville,Fayetteville,"542 West Streamside Bend, Unit 200",72701,Mon - Sun 10:30am - 9:00pm,FALSE
+Arizona,AZ,Phoenix,32nd + Camelback,3225 East Camelback Road,85018,Mon - Sun 10:00am - 10:00pm,FALSE
+Arizona,AZ,Phoenix,Paradise Valley,10810 North Tatum Boulevard Suite 105 B,85028,Mon - Sun 10:00am - 10:00pm,FALSE
+Arizona,AZ,Scottsdale,Scottsdale Quarter,15323 North Scottsdale Road Suite E1-150,85254,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,San Diego,4S Commons,10562 Craftsman Way #192,92127,Mon - Thu 11:00am - 9:00pm Fri 11:00am - 8:00pm Sat 10:30am - 8:00pm Sun 11:00am - 8:00pm,FALSE
+California,CA,Los Angeles,5th + Grand,601 W 5th St,90071,Mon - Fri 10:00am - 9:00pm,FALSE
+California,CA,Los Angeles,8th + Hill,410 West 8th Street,90014,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+California,CA,Oakland,9th + Broadway,831 Broadway,94607,Mon - Fri 10:00am - 8:00pm Sat - Sun 10:30am - 7:00pm,FALSE
+California,CA,Berkeley,Berkeley,1890 Shattuck Ave,94709,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+California,CA,Beverly Hills,Beverly + Wilshire,251 N Beverly Dr,90210,Mon - Thu 10:00am - 9:00pm Fri - Sun 10:00am - 8:00pm,FALSE
+California,CA,Burlingame,Burlingame,235 Lorton Avenue,94010,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Carlsbad,Carlsbad,7750 El Camino Real suite a,92009,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+California,CA,Los Angeles,Century City,10250 Santa Monica Blvd,90067,Mon - Thu 10:00am - 9:00pm Fri - Sun 10:00am - 8:00pm,FALSE
+California,CA,Costa Mesa,Costa Mesa,280 Bristol Street,92626,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Culver City,Culver City: The Lab,8840 Washington Blvd Suite 101,90232,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Torrance,Del Amo,21434 Hawthorne Boulevard unit 120,90503,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+California,CA,San Diego,Del Mar,12853 El Camino Real suite 111,92130,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+California,CA,Emeryville,Emeryville Coming soon,"5959 Shellmound Street, Suite 85",94608,Mon - Sun 10:00am - 9:00pm,TRUE
+California,CA,Encino,Encino,"16403 Ventura Blvd., Suite D",91436,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+California,CA,Sacramento,Fair Oaks + Howe,2080 Fair Oaks Boulevard,95825,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Newport Beach,Fashion Island,853 Newport Center Dr,92660,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 8:00pm,FALSE
+California,CA,San Francisco,Folsom + Main,150 Folsom Street,94105,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:00am - 6:00pm,FALSE
+California,CA,Greenbrae,Greenbrae,284 Bon Air Center,94904,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 8:00pm,FALSE
+California,CA,Los Angeles,Hollywood,6115 West Sunset Blvd,90028,Mon - Sun 10:00am - 9:00pm,FALSE
+California,CA,Huntington Beach,Huntington Beach,"18685 Main Street, Suite 107",92648,Mon - Sun 10:30am - 9:00pm,FALSE
+California,CA,Los Angeles,La Brea,180 S La Brea,90036,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,San Diego,La Jolla,4575 La Jolla Village Drive unit 1145,92122,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+California,CA,Laguna Niguel,Laguna Niguel,27221 La Paz Road,92677,Mon - Sun 10:30am - 9:00pm,FALSE
+California,CA,Long Beach,Long Beach,"6451 East Pacific Coast Highway, Unit 21",90803,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Manhattan Beach,Manhattan Beach,"3200 N Sepulveda Blvd, Space #E18",90266,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+California,CA,San Francisco,Marina,2040 Chestnut St.,94123,Mon - Thu 10:00am - 10:00pm Fri - Sun 10:30am - 10:00pm,FALSE
+California,CA,Marina del Rey,Marina del Rey,4718 Admiralty Way,90292,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,San Francisco,Market + Battery Coming soon,22 Battery Street,94111,NA,TRUE
+California,CA,Sacramento,Midtown,1629 S Street,95811,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,San Francisco,Mission Rock,1023 3rd Street,94158,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,San Diego,Mission Valley,1025 Camino De La Reina,92108,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Santa Monica,Montana Ave,1517 Montana Ave,90402,Mon - Fri 10:00am - 9:00pm Sat - Sun 11:00am - 9:00pm,FALSE
+California,CA,Mountain View,Mountain View,440 Castro St,94041,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 7:00pm,FALSE
+California,CA,Palo Alto,Palo Alto,581 Ramona St,94301,Mon - Sun 10:30am - 9:00pm,FALSE
+California,CA,Pasadena,Pasadena,600 E Colorado Blvd.,91101,Mon - Thu 10:00am - 9:00pm Fri - Sat 10:00am - 10:00pm Sun 10:00am - 9:00pm,FALSE
+California,CA,Campbell,Pruneyard,"1875 S. Bascom Avenue, Suite 450",95008,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+California,CA,Rancho Cucamonga,Rancho Cucamonga,7811 Monet Ave space 1305,91739,Mon - Sun 10:30am - 9:00pm,FALSE
+California,CA,Redwood City,Redwood City Coming soon,1109 El Camino Real,94063,NA,TRUE
+California,CA,San Mateo,San Mateo,1 East 3rd Ave,94401,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+California,CA,Santa Clara,Santa Clara,2532 Augustine Drive,95054,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Santa Monica,Santa Monica,1343 4th St,90401,Mon - Thu 10:00am - 9:00pm Fri 10:00am - 8:00pm Sat - Sun 11:00am - 7:00pm,FALSE
+California,CA,Santa Rosa,Santa Rosa,2365 Sonoma Avenue Suite C6,95405,Mon - Sun 10:00am - 9:00pm,FALSE
+California,CA,San Jose,Saratoga + Campbell,1200 El Paseo de Saratoga Suite 120,95129,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Los Angeles,Silver Lake,3925 Sunset Blvd,90029,Mon - Fri 10:00am - 11:00pm Sat - Sun 10:30am - 11:00pm,FALSE
+California,CA,San Francisco,Soma,171 2nd St,94105,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+California,CA,Irvine,Spectrum,714 Spectrum Center Drive,92618,Mon - Thu 10:00am - 9:00pm Fri 10:00am - 10:00pm Sat 10:30am - 10:00pm Sun 10:30am - 9:00pm,FALSE
+California,CA,Studio City,Studio City,13003 Ventura Blvd,91604,Mon - Sun 10:00am - 9:00pm,FALSE
+California,CA,Sunnyvale,Sunnyvale,300 W El Camino Real,94087,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+California,CA,West Hollywood,Sunset Strip,8570 Sunset Blvd,90069,Mon - Sun 10:30am - 10:00pm,FALSE
+California,CA,Burbank,Toluca Lake,4320 West Riverside Drive,91505,Mon - Sun 10:00am - 9:00pm,FALSE
+California,CA,Tustin,Tustin,15090 Kensington Park Drive suite 400,92782,Mon - Sun 10:30am - 10:00pm,FALSE
+California,CA,Irvine,UC Irvine,4289 Campus Drive,92612,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Los Angeles,USC Village,929 West Jefferson Boulevard Suite 1650,90089,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Los Angeles,Vineyards at Porter Ranch Coming soon,20140 Rinaldi Street,91326,NA,TRUE
+California,CA,Walnut Creek,Walnut Creek,1556 Mount Diablo Boulevard suite a,94596,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+California,CA,Los Angeles,West 3rd,8055 W 3rd St,90048,Mon - Sun 10:00am - 10:00pm,FALSE
+California,CA,Thousand Oaks,Westlake Village,"100 Promenade Way, Unit A",91362,Mon - Sun 10:00am - 9:00pm,FALSE
+California,CA,Los Angeles,Westwood,10922 Kinross Ave,90024,Mon - Sun 11:00am - 9:00pm,FALSE
+California,CA,Woodland Hills,Woodland Hills,20929 Ventura Blvd #1,91364,Mon - Sun 10:00am - 9:00pm,FALSE
+Colorado,CO,Boulder,16th + Pearl,1601 Pearl St,80302,Mon - Sun 10:00am - 9:00pm,FALSE
+Colorado,CO,Denver,Cherry Creek,275 Saint Paul St,80206,Mon - Sun 10:30am - 9:30pm,FALSE
+Colorado,CO,Highlands Ranch,Highlands Ranch,3620 East Highlands Ranch Parkway suite 101,80126,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:00am - 8:00pm,FALSE
+Colorado,CO,Denver,LoDo,1750 Wewatta St,80202,Mon - Sun 10:30am - 9:00pm,FALSE
+Colorado,CO,Lone Tree,Park Meadows,8423 Park Meadows Center Drive #E160,80124,Mon - Sun 10:00am - 8:00pm,FALSE
+Colorado,CO,Denver,Tennyson,"3985 N Tennyson Street, Suite 110",80212,Mon - Sun 10:00am - 10:00pm,FALSE
+Colorado,CO,Denver,University Hills,"2770 S. Colorado Boulevard, Suite L-110",80222,Mon - Sun 10:00am - 9:00pm,FALSE
+Connecticut,CT,Darien,Darien,126 Heights Road,06820,Mon - Sun 10:30am - 9:00pm,FALSE
+Connecticut,CT,Canton,Farmington Valley,110 Albany Turnpike Suite 911,06019,Mon - Sun 10:30am - 9:00pm,FALSE
+Connecticut,CT,Greenwich,Greenwich,102 Greenwich Ave,06830,Mon - Sun 10:30am - 8:00pm,FALSE
+Connecticut,CT,New Haven,New Haven,1 Broadway,06511,Mon - Sun 10:00am - 10:00pm,FALSE
+Connecticut,CT,Westport,Westport,374 Post Road East,06880,Mon - Fri 10:30am - 8:00pm Sat - Sun 10:30am - 7:00pm,FALSE
+District of Columbia,DC,Washington,14th + W,1325 W St NW,20009,Mon - Sun 10:30am - 10:00pm,FALSE
+District of Columbia,DC,Washington,Capitol Hill,221 Pennsylvania Ave SE,20003,Mon - Sun 10:30am - 9:00pm,FALSE
+District of Columbia,DC,Washington,Dupont,1512 Connecticut Ave NW,20036,Mon - Sun 10:00am - 9:00pm,FALSE
+District of Columbia,DC,Washington,Farragut Square,888 17th St NW,20006,Mon - Fri 9:30am - 9:00pm Sat - Sun 9:30am - 4:00pm,FALSE
+District of Columbia,DC,Washington,Foggy Bottom,2221 I St NW,20037,Mon - Sun 10:00am - 10:00pm,FALSE
+District of Columbia,DC,Washington,Georgetown,1044 Wisconsin Ave NW,20007,Mon - Sun 9:30am - 9:00pm,FALSE
+District of Columbia,DC,Washington,Logan Circle,1461 P St NW,20005,Mon - Sun 10:30am - 10:00pm,FALSE
+District of Columbia,DC,Washington,Mt Vernon,601 Massachusetts Avenue Northwest suite 110,20001,Mon - Sun 9:30am - 9:00pm,FALSE
+District of Columbia,DC,Washington,Navy Yard,1212 4th St SE,20003,Mon - Thu 9:30am - 10:00pm Fri - Sun 9:30am - 9:00pm,FALSE
+District of Columbia,DC,Washington,Penn Quarter,"624 E. Street, NW",20004,Mon - Fri 10:30am - 8:30pm Sat - Sun 10:30am - 4:00pm,FALSE
+District of Columbia,DC,Washington,Union Market,1304 4th Street Northeast,20002,Mon - Fri 10:00am - 8:00pm Sat - Sun 10:00am - 7:00pm,FALSE
+District of Columbia,DC,Washington,West End,2238 M St NW,20037,Mon - Sun 10:00am - 7:30pm,FALSE
+Florida,FL,Miami,Aventura,19505 Biscayne Boulevard suite #2160,33180,Mon - Sun 10:30am - 8:00pm,FALSE
+Florida,FL,Coconut Grove,Coconut Grove,3015 Grand Ave. Space #140,33133,Mon - Sun 9:30am - 10:00pm,FALSE
+Florida,FL,Coral Gables,Coral Gables,122 Giralda Ave,33134,Mon - Fri 10:30am - 8:00pm Sat - Sun 10:30am - 7:00pm,FALSE
+Florida,FL,St. Petersburg,Edge District,1114 Central Avenue,33705,Mon - Sun 10:00am - 10:00pm,FALSE
+Florida,FL,Tampa,Hyde Park Village,722 South Village Circle,33606,Mon - Sun 10:30am - 9:00pm,FALSE
+Florida,FL,Palm Beach Gardens,Palm Beach Gardens,11701 Lake Victoria Gardens Avenue suite 4101,33410,Mon - Sun 10:30am - 9:00pm,FALSE
+Florida,FL,Fort Lauderdale,River Market,2374 N Federal Hwy,33305,Mon - Sun 9:30am - 10:00pm,FALSE
+Florida,FL,Jacksonville,St. Johns Town Center,4624 Town Crossing Drive,32246,Mon - Sun 10:00am - 10:00pm,FALSE
+Florida,FL,Tampa,Tampa Heights,301 West Palm Avenue,33602,Mon - Sun 10:00am - 9:00pm,FALSE
+Florida,FL,Miami,The Falls,8870 Southwest 136th Street space rr02,33176,Mon - Sun 10:30am - 9:30pm,FALSE
+Florida,FL,West Palm Beach,West Palm,701 South Rosemary Avenue suite 135,33401,Mon - Sun 10:30am - 9:00pm,FALSE
+Florida,FL,Miami,Wynwood,2621 Northwest 2nd Avenue,33127,Mon - Sun 10:30am - 11:00pm,FALSE
+Georgia,GA,Atlanta,14th + Peachtree,1201 Peachtree Street Northeast suite 150,30361,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 4:00pm,FALSE
+Georgia,GA,Atlanta,Emory Village,1556 North Decatur Road,30307,Mon - Fri 10:30am - 10:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Georgia,GA,Atlanta,Lenox Square,3393 Peachtree Road Northeast #3065B,30326,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:00am - 8:00pm,FALSE
+Georgia,GA,Atlanta,Perimeter,123 Perimeter Center West suite 400,30346,Mon - Fri 10:30am - 10:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Georgia,GA,Atlanta,Ponce City Market,"650 North Ave NE, Suite 102B",30308,Mon - Sun 10:30am - 10:00pm,FALSE
+Georgia,GA,Atlanta,West Midtown,1050 Howell Mill Road Northwest suite 107,30318,Mon - Sun 10:30am - 10:00pm,FALSE
+Illinois,IL,Chicago,Andersonville,5400 N Clark St.,60640,Mon - Sun 10:30am - 10:00pm,FALSE
+Illinois,IL,Chicago,Dearborn + Madison,1 N Dearborn St,60602,Mon - Fri 10:30am - 8:00pm,FALSE
+Illinois,IL,Deer Park,Deer Park,20530 North Rand Road #438,60010,Mon - Sun 10:00am - 8:00pm,FALSE
+Illinois,IL,Deerfield,Deerfield,775 Waukegan Road suite 170,60015,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:00am - 8:00pm,FALSE
+Illinois,IL,Evanston,Evanston,1601 Sherman Avenue,60201,Mon - Sun 10:00am - 10:00pm,FALSE
+Illinois,IL,Chicago,Franklin + Randolph,151 North Franklin Street,60606,Mon - Fri 10:00am - 6:00pm Sun 11:00am - 4:00pm,FALSE
+Illinois,IL,Chicago,Fulton Market,1000 Randolph St,60607,Mon - Sun 10:00am - 10:00pm,FALSE
+Illinois,IL,Chicago,Gold Coast,2 West Division Street,60610,Mon - Sun 10:30am - 9:00pm,FALSE
+Illinois,IL,Chicago,Hyde Park,1500 East 53rd Street,60615,Mon - Sun 10:00am - 10:00pm,FALSE
+Illinois,IL,Chicago,Lincoln Common,2361 North Lincoln Avenue suite A1-110,60614,Mon - Sun 10:30am - 10:00pm,FALSE
+Illinois,IL,Chicago,Logan Square,2500 N Milwaukee Ave,60647,Mon - Sun 10:30am - 9:00pm,FALSE
+Illinois,IL,Chicago,Millennium Park,150 N Michigan Ave,60601,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Illinois,IL,Naperville,Naperville,223 South Main Street,60540,Mon - Sun 10:30am - 9:00pm,FALSE
+Illinois,IL,Chicago,North + Clybourn,900 W North Ave,60614,Mon - Sun 10:30am - 8:00pm,FALSE
+Illinois,IL,Northbrook,Northbrook,984 Willow Road suite J,60062,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:00am - 8:00pm,FALSE
+Illinois,IL,Oak Park,Oak Park,1143 Lake Street,60301,Mon - Fri 10:30am - 10:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Illinois,IL,Oak Brook,Oakbrook,1817 Oakbrook Center Retail 3,60523,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:00am - 9:00pm,FALSE
+Illinois,IL,Skokie,Old Orchard,4999 Old Orchard Road B45,60077,Mon - Sun 10:30am - 9:00pm,FALSE
+Illinois,IL,Chicago,River North,623 N State St,60654,Mon - Sun 10:00am - 10:00pm,FALSE
+Illinois,IL,Schaumburg,Schaumburg,1320 North Meacham Road,60173,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:00am - 9:00pm,FALSE
+Illinois,IL,Chicago,Southport,3601 North Southport Avenue,60613,Mon - Sun 10:30am - 10:00pm,FALSE
+Illinois,IL,Chicago,Streeterville,227 East Ontario Street,60611,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:00am - 8:00pm,FALSE
+Illinois,IL,Chicago,Wicker Park,1471 N Milwaukee Ave,60622,Mon - Fri 10:30am - 10:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Illinois,IL,Chicago,Willis Tower,233 S Wacker Dr,60606,Mon - Fri 9:30am - 8:00pm Sat - Sun 11:00am - 4:00pm,FALSE
+Indiana,IN,Indianapolis,86th + Keystone,8702 Keystone Crossing,46240,Mon - Sun 10:00am - 9:00pm,FALSE
+Indiana,IN,Bloomington,Bloomington,210 East Kirkwood Avenue,47408,Mon - Thu 10:30am - 10:00pm Fri - Sun 10:30am - 9:30pm,FALSE
+Indiana,IN,Carmel,Carmel,14400 Clay Terrace Blvd. Suite 145,46032,Mon - Sun 10:00am - 9:00pm,FALSE
+Indiana,IN,Indianapolis,Downtown Indianapolis,157 East New York Street,46204,Mon - Sun 10:00am - 9:00pm,FALSE
+Indiana,IN,Fishers,Fishers,9711 East 116th Street suite 300,46037,Mon - Sun 10:30am - 9:00pm,FALSE
+Indiana,IN,Zionsville,The Farm at Zionsville,11555 Sylo Crossing,46077,Mon - Sun 10:30am - 9:00pm,FALSE
+Massachusetts,MA,Boston,60 State,60 State St,02109,Mon - Sun 9:30am - 9:00pm,FALSE
+Massachusetts,MA,Watertown,Arsenal Yards,100 Bond Square,02472,Mon - Sun 9:30am - 10:00pm,FALSE
+Massachusetts,MA,Somerville,Assembly Row,345 Assembly Row #812,02145,Mon - Fri 9:30am - 11:00pm Sat - Sun 9:30am - 10:00pm,FALSE
+Massachusetts,MA,Boston,Back Bay,659 Boylston St,02116,Mon - Fri 9:30am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+Massachusetts,MA,Boston,Beacon Hill,300 Cambridge Street 1-L,02114,Mon - Sun 9:30am - 10:00pm,FALSE
+Massachusetts,MA,Burlington,Burlington Mall,85 Middlesex Turnpike #3060,01803,Mon - Fri 9:30am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+Massachusetts,MA,Chestnut Hill,Chestnut Hill,210 Boylston St,02467,Mon - Fri 9:30am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+Massachusetts,MA,Boston,Downtown Crossing,13 School St,02108,Mon - Fri 9:30am - 7:00pm Sat - Sun 10:30am - 4:00pm,FALSE
+Massachusetts,MA,Boston,Fenway,132 Brookline Ave,02215,Sun 12:00am - 12:00am,FALSE
+Massachusetts,MA,Framingham,Framingham,1 Worcester Road,01701,Mon - Sun 10:00am - 10:00pm,FALSE
+Massachusetts,MA,Cambridge,Harvard Square,39 JFK St,02138,Mon - Fri 9:30am - 11:00pm Sat - Sun 10:30am - 11:00pm,FALSE
+Massachusetts,MA,Hingham,Hingham,96 Derby Street Suite 330 A,02043,Mon - Sun 10:00am - 9:00pm,FALSE
+Massachusetts,MA,Boston,Ink Block,354 Harrison Ave,02118,Mon - Fri 9:30am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+Massachusetts,MA,Cambridge,Kendall Square,201 Galileo Galilei Way,02142,Mon - Fri 9:30am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Massachusetts,MA,Dedham,Legacy Place,244 Legacy Pl,02026,Mon - Sun 10:00am - 10:00pm,FALSE
+Massachusetts,MA,Boston,Longwood Medical,360 Longwood Avenue,02215,Mon - Fri 9:30am - 11:00pm Sat - Sun 9:30am - 10:00pm,FALSE
+Massachusetts,MA,Lynnfield,Lynnfield,675 Market St,01940,Mon - Sun 9:30am - 10:00pm,FALSE
+Massachusetts,MA,Mansfield,Mansfield Crossing,"280 School Street, Suite D-115",02048,Mon - Sun 10:00am - 9:00pm,FALSE
+Massachusetts,MA,Millbury,Millbury Coming soon,70 Worcester-Providence Turnpike Suite 710,01527,NA,TRUE
+Massachusetts,MA,Peabody,Peabody,"210 Andover Street, Unit N115A",01960,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:00am - 9:00pm,FALSE
+Massachusetts,MA,Boston,Post Office Square,225 Franklin St,02210,Mon - Fri 9:30am - 8:00pm,FALSE
+Massachusetts,MA,Boston,Prudential Center,800 Boylston St,02199,Mon - Fri 9:30am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Massachusetts,MA,Boston,Seaport Square,47 Northern Ave,02210,Mon - Fri 9:30am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+Massachusetts,MA,Boston,Summer Street,87 Summer St,02110,Mon - Fri 9:30am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Massachusetts,MA,Wellesley,Wellesley,180 Linden St,02482,Mon - Fri 9:30am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+Maryland,MD,Bethesda,Bethesda,4831 Bethesda Ave,20814,Mon - Fri 9:30am - 9:00pm Sat - Sun 9:30am - 10:00pm,FALSE
+Maryland,MD,College Park,College Park,8300 Baltimore Ave,20740,Mon - Fri 9:30am - 10:00pm Sat - Sun 9:30am - 9:00pm,FALSE
+Maryland,MD,Gaithersburg,Gaithersburg,299 Copley Place suite D100,20878,Mon - Sat 9:30am - 10:00pm Sun 9:30am - 9:00pm,FALSE
+Maryland,MD,Baltimore,Harbor East,1306 Fleet St,21202,Mon - Sun 9:30am - 10:00pm,FALSE
+Maryland,MD,North Bethesda,Pike + Rose,11875 Grand Park Ave,20852,Mon - Fri 9:30am - 9:00pm Sat - Sun 9:30am - 8:00pm,FALSE
+Maryland,MD,Silver Spring,Silver Spring,8517 Georgia Ave,20910,Mon 9:30am - 10:00pm Tue 9:00am - 10:00pm Wed - Fri 9:30am - 10:00pm Sat - Sun 9:30am - 9:00pm,FALSE
+Maryland,MD,Towson,Towson,1 East Joppa Road space 151,21286,Mon - Thu 9:30am - 8:00pm Fri - Sun 9:30am - 7:00pm,FALSE
+Michigan,MI,Ann Arbor,Ann Arbor,311 South State Street,48104,Mon - Sun 10:30am - 10:00pm,FALSE
+Michigan,MI,Ann Arbor,Arbor Hills,3070 Washtenaw Avenue suite D107,48104,Mon - Sun 10:00am - 10:00pm,FALSE
+Michigan,MI,Birmingham,Birmingham,167 North Old Woodward Avenue,48009,Mon - Sun 10:30am - 9:00pm,FALSE
+Michigan,MI,Detroit,Downtown Detroit,1020 Woodward Avenue,48226,Mon - Fri 10:00am - 8:00pm Sat - Sun 11:00am - 8:00pm,FALSE
+Michigan,MI,Rochester Hills,Rochester Hills,260 North Adams Road,48309,Mon - Sun 10:00am - 8:00pm,FALSE
+Michigan,MI,Shelby Township,Shelby Township,15089 Hall Road,48315,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 8:00pm,FALSE
+Michigan,MI,Troy,Troy,730 East Big Beaver Road,48083,Mon - Sun 10:30am - 9:00pm,FALSE
+Minnesota,MN,Edina,Galleria Edina,3545 Galleria,55435,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Minnesota,MN,Saint Paul,Grand Ave,735 Grand Avenue,55105,Mon - Sat 10:30am - 8:00pm Sun 10:30am - 7:00pm,FALSE
+Minnesota,MN,Bloomington,Mall of America,"316 North Garden, Mall of America",55425,Mon - Sat 10:00am - 9:00pm Sun 11:00am - 7:00pm,FALSE
+Minnesota,MN,Minneapolis,North Loop,212 North 3rd Avenue unit 107,55401,Mon - Sun 10:30am - 10:00pm,FALSE
+Minnesota,MN,Minneapolis,University of Minnesota,615 Washington Avenue Southeast,55414,Mon - Thu 10:30am - 9:00pm Fri - Sun 10:30am - 8:00pm,FALSE
+North Carolina,NC,Huntersville,Birkdale Village,16844 Birkdale Commons Parkway,28078,Mon - Sun 10:30am - 9:00pm,FALSE
+North Carolina,NC,Chapel Hill,Chapel Hill,122 East Franklin Street,27514,Mon - Sun 10:00am - 10:00pm,FALSE
+North Carolina,NC,Charlotte,Plaza Midwood,1710 Commonwealth Avenue Suite 123,28205,Mon - Sun 10:00am - 10:00pm,FALSE
+North Carolina,NC,Raleigh,Raleigh North Hills,"4158 Main at North Hills St, Suite 103",27609,Mon - Sun 10:00am - 9:00pm,FALSE
+North Carolina,NC,Charlotte,Uptown Charlotte,"101 North Tryon Street, Suite 101",28202,Mon - Fri 10:30am - 10:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+North Carolina,NC,West Cary,West Cary Coming soon,5340 Arco Street Suite 100,27519,NA,TRUE
+New Hampshire,NH,Bedford,Bedford,7 Market Street Suite 2,03110,Mon - Sun 10:00am - 9:00pm,FALSE
+New Hampshire,NH,Salem,Tuscan Village,"17 Artisan Drive, Suite 1130",03079,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 8:00pm,FALSE
+New Jersey,NJ,Hoboken,Hoboken,218 Washington Street,07030,Mon - Fri 10:00am - 9:00pm Sat - Sun 11:00am - 9:00pm,FALSE
+New Jersey,NJ,Jersey City,Jersey City,90 Hudson St.,07302,Mon - Sun 10:30am - 10:00pm,FALSE
+New Jersey,NJ,Marlton,Marlton,"500 Route 73 South, Suite A28",08053,Mon - Sun 10:30am - 8:00pm,FALSE
+New Jersey,NJ,Montclair,Montclair,460 Bloomfield Avenue units 1E & 1D,07042,Mon - Sat 10:30am - 10:00pm Sun 10:30am - 9:00pm,FALSE
+New Jersey,NJ,Montvale,Montvale,340 Market Street,07645,Mon - Fri 10:30am - 8:00pm Sat - Sun 10:30am - 7:00pm,FALSE
+New Jersey,NJ,Morristown,Morristown,"110 Morris Street, Suite 1",07960,Mon - Sun 10:30am - 7:00pm,FALSE
+New Jersey,NJ,Princeton,Princeton Coming soon,"3535 Brunswick Pike, Suite 466",08540,Mon - Sun 10:00am - 10:00pm,TRUE
+New Jersey,NJ,Hackensack,Shops at Riverside,"380-390 Hackensack Ave, Space 169",07601,Mon - Sun 10:30am - 10:00pm,FALSE
+New Jersey,NJ,Shrewsbury,Shrewsbury,575 Broad Street,07702,Mon - Sun 10:30am - 8:00pm,FALSE
+New Jersey,NJ,Westfield,Westfield,221 East Broad Street,07090,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,12th + University,101 University Pl,10003,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,23rd + Park,27 East 23rd Street,10010,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,32nd + Park,2 Park Ave,10016,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 4:00pm,FALSE
+New York,NY,New York,38th + Broadway,1384 Broadway,10018,Mon - Sun 9:30am - 9:00pm,FALSE
+New York,NY,New York,44th + 3rd,155 East 44th Street,10017,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,52nd + Lex,599 Lexington Ave,10022,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,55th + Park,60 E 55th St,10022,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,56th + Broadway,1740 Broadway,10019,Mon - Sun 9:30am - 10:00pm,FALSE
+New York,NY,New York,61st + Lex,137 East 61st Street,10065,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,67th + Columbus,159 Columbus Ave,10023,Mon - Sun 9:30am - 10:00pm,FALSE
+New York,NY,New York,71st + 1st,1321 1st Ave,10021,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,75th + Amsterdam,311 Amsterdam Ave,10023,Mon - Sun 9:30am - 10:00pm,FALSE
+New York,NY,New York,85th + 3rd,1500 3rd Ave,10028,Mon - Sun 10:30am - 10:00pm,FALSE
+New York,NY,New York,91st + Broadway,2460 Broadway,10025,Mon - Sun 9:30am - 9:00pm,FALSE
+New York,NY,New York,Bowery,347 Bowery Ave,10003,Mon - Sun 10:30am - 10:00pm,FALSE
+New York,NY,New York,Bryant Park,1114 6th Avenue,10036,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,Chambers St,125 Chambers St,10007,Mon - Sun 10:30am - 10:00pm,FALSE
+New York,NY,Chappaqua,Chappaqua,480 North Bedford Road suite D-5,10514,Mon - Sun 10:30am - 7:00pm,FALSE
+New York,NY,New York,Columbia U,2937 Broadway,10025,Mon - Fri 9:30am - 10:30pm Sat - Sun 9:30am - 10:00pm,FALSE
+New York,NY,Brooklyn,Court + Atlantic,127 Court St,11201,Mon - Sun 10:30am - 10:00pm,FALSE
+New York,NY,Brooklyn,Downtown Brooklyn,106 Willoughby Street,11201,Mon - Sun 10:30am - 10:00pm,FALSE
+New York,NY,Brooklyn,DUMBO,50 Washington St,11201,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,Forest Hills,Forest Hills,106-24 71st Avenue,11375,Mon - Sun 10:00am - 10:00pm,FALSE
+New York,NY,Garden City,Garden City,191 Seventh Street suite B,11530,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,Grand Central,230 Park Avenue,10169,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,Brooklyn,Greenpoint,723 Manhattan Avenue,11222,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,Hudson Yards,10 Hudson Yards,10001,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,Huntington Station,Huntington,"160 Walt Whitman Road, Space 1021C",11746,Mon - Sun 10:30am - 8:00pm,FALSE
+New York,NY,Long Island City,Long Island City,25-35 44th Drive,11101,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+New York,NY,New York,Lower East Side,167 Orchard Street,10002,Mon - Sun 10:00am - 10:00pm,FALSE
+New York,NY,Manhasset,Manhasset,1595 Northern Boulevard,11030,Mon - Sun 10:00am - 9:00pm Temporary Hours 9/19 Sat 10:00am - 4:00pm (Today) 9/20 Sun 10:00am - 4:00pm,FALSE
+New York,NY,New York,Meatpacking,32 Gansevoort St,10014,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,Murray Hill,606 1st Ave,10016,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,Nolita,100 Kenmare St,10012,Mon - Sun 9:30am - 10:00pm,FALSE
+New York,NY,New York,NoMad,1153 Broadway,10001,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 8:00pm,FALSE
+New York,NY,Brooklyn,Park Slope,76-78 Saint Marks Avenue,11217,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,Penn Plaza,7 Pennsylvania Plaza,10001,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 5:00pm,FALSE
+New York,NY,New York,Rockefeller Center,30 Rockefeller Plaza,10112,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,Spring + Hudson,315 Hudson Street,10013,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 4:00pm,FALSE
+New York,NY,New York,Union Square,870 Broadway,10003,Mon - Sun 10:30am - 9:00pm,FALSE
+New York,NY,Scarsdale,Vernon Hills,696 White Plains Road,10583,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+New York,NY,New York,Wall Street,67 Wall St,10005,Mon - Thu 10:30am - 9:00pm Fri - Sun 10:30am - 8:00pm,FALSE
+New York,NY,Brooklyn,Williamsburg,162 N 4th St,11211,Mon - Sun 10:30am - 11:00pm,FALSE
+New York,NY,Woodbury,Woodbury,7969 Jericho Turnpike,11797,Mon - Sat 10:30am - 7:00pm Sun 10:30am - 4:00pm,FALSE
+New York,NY,New York,World Trade Center,3 World Trade Center space 1300,10007,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 4:00pm,FALSE
+Ohio,OH,Dublin,Downtown Dublin,36 North High Street,43017,Mon - Sun 10:30am - 9:00pm,FALSE
+Ohio,OH,Liberty Township,Liberty Center,"7615 Blake Street, Space A, Bldg. K",45069,Mon - Sun 10:30am - 9:00pm,FALSE
+Ohio,OH,Columbus,Short North,700 North High Street,43215,Mon - Sun 10:30am - 10:00pm,FALSE
+Pennsylvania,PA,Philadelphia,10th + Walnut,924 Walnut St,19107,Mon - Sun 10:30am - 10:00pm,FALSE
+Pennsylvania,PA,Philadelphia,16th + Market,1601 Market St,19103,Mon - Thu 9:30am - 9:00pm Fri 9:30am - 8:00pm,FALSE
+Pennsylvania,PA,Ardmore,Ardmore,68 Coulter Ave,19003,Mon - Sun 10:30am - 9:00pm,FALSE
+Pennsylvania,PA,Philadelphia,Fishtown,1359 Frankford Ave Suite 2,19125,Mon - Sun 10:00am - 9:00pm,FALSE
+Pennsylvania,PA,King of Prussia,KOP Mall,350 Mall Boulevard suite 3035,19406,Mon - Thu 10:00am - 8:00pm Fri - Sat 10:00am - 9:00pm Sun 11:00am - 6:00pm,FALSE
+Pennsylvania,PA,Philadelphia,Rittenhouse,1821 Chestnut St,19103,Mon - Sun 10:30am - 10:00pm,FALSE
+Pennsylvania,PA,Philadelphia,UPenn,3925 Walnut St,19104,Mon - Sun 10:30am - 10:00pm,FALSE
+Pennsylvania,PA,Wayne,Wayne,223 East Lancaster Avenue,19087,Mon - Sun 10:00am - 9:00pm,FALSE
+Rhode Island,RI,Cranston,Cranston,111 Hillside Road Garden City Center,02920,Mon - Sun 10:00am - 10:00pm,FALSE
+Tennessee,TN,Nashville,The Gulch,341 11th Avenue South,37203,Mon - Sun 10:30am - 9:00pm,FALSE
+Texas,TX,Austin,2nd + Colorado,200 West 2nd St.,78701,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 8:00pm,FALSE
+Texas,TX,Dallas,Addison,5280 Belt Line Road suite 150,75254,Mon - Fri 10:30am - 10:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Texas,TX,Cypress,Cypress,9955 Barker Cypress Road suite 110,77433,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Texas,TX,Fort Worth,Fort Worth,1605 S University Drive,76107,Mon - Sun 10:30am - 9:00pm,FALSE
+Texas,TX,Dallas,Lakewood,6400 Gaston Avenue,75214,Mon - Fri 10:30am - 7:30pm Sat - Sun 10:30am - 4:00pm,FALSE
+Texas,TX,Houston,Main + Walker,820 Main St.,77002,Mon - Fri 10:00am - 5:00pm,FALSE
+Texas,TX,Houston,Montrose,1303 Westheimer,77006,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Texas,TX,Austin,Mueller,1900 Aldrich Street suite 140,78723,Mon - Sun 10:00am - 9:30pm,FALSE
+Texas,TX,San Antonio,Quarry Village,340 East Basse Road suite 101,78209,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:00am - 9:00pm,FALSE
+Texas,TX,Houston,Rice Village,2551 Amherst St,77005,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Texas,TX,Dallas,Snider Plaza,6565 Hillcrest Avenue Suite 140,75205,Mon - Thu 10:30am - 9:00pm Fri - Sat 10:30am - 8:00pm Sun 10:30am - 9:00pm,FALSE
+Texas,TX,Austin,South Congress,1007 South Congress Ave.,78704,Mon - Sun 9:30am - 10:00pm,FALSE
+Texas,TX,Southlake,Southlake,1111 East Southlake Boulevard suite 430,76092,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 7:30pm,FALSE
+Texas,TX,Austin,The Domain NORTHSIDE,11501 Rock Rose Avenue suite 124,78758,Mon - Sun 10:00am - 9:00pm,FALSE
+Texas,TX,Austin,The Drag,2234 Guadalupe St,78705,Mon - Thu 10:00am - 9:00pm Fri - Sun 10:00am - 8:00pm,FALSE
+Texas,TX,Houston,The Heights,600 North Shepherd Drive suite 149,77007,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Texas,TX,The Woodlands,The Woodlands,9595 Six Pines Drive #1065,77380,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Texas,TX,Houston,Uptown Park,1141 Uptown Park Blvd suite 05,77056,Mon - Fri 10:00am - 9:00pm Sat - Sun 10:30am - 9:00pm,FALSE
+Texas,TX,Austin,West Lake Hills,701 South Capital of Texas Highway Suite A050,78746,Mon - Sun 10:30am - 8:00pm,FALSE
+Texas,TX,Dallas,West Village,"3636 McKinney Avenue, Suite 100",75204,Mon - Fri 10:00am - 10:30pm Sat - Sun 10:30am - 10:30pm,FALSE
+Utah,UT,Salt Lake City,Sugar House,2188 Highland Drive suite #103,84106,Mon - Sun 10:00am - 10:00pm,FALSE
+Virginia,VA,Arlington,Ballston,4075 Wilson Blvd #C,22203,Mon - Sat 9:30am - 10:00pm Sun 10:30am - 10:00pm,FALSE
+Virginia,VA,Richmond,Carytown Exchange,3502 West Cary Street,23221,Mon - Sun 10:00am - 9:00pm,FALSE
+Virginia,VA,Arlington,Clarendon,3100 Clarendon Blvd,22201,Mon - Sun 9:30am - 9:00pm,FALSE
+Virginia,VA,Arlington,Crystal City,"2200 Crystal Dr, Ste E",22202,Mon - Fri 9:30am - 8:00pm Sat - Sun 9:30am - 4:00pm,FALSE
+Virginia,VA,Fairfax,Fairfax Corner,4225 Fairfax Corner Avenue East,22030,Mon - Sun 10:00am - 9:00pm,FALSE
+Virginia,VA,McLean,McLean,6220 Old Dominion Drive,22101,Mon - Sun 10:00am - 9:00pm,FALSE
+Virginia,VA,Fairfax,Mosaic,"2905 District Ave, Ste 185",22031,Mon - Sun 9:30am - 10:00pm,FALSE
+Virginia,VA,Alexandria,Old Town,823 King St,22314,Mon - Sat 9:15am - 11:00pm Sun 10:30am - 10:00pm,FALSE
+Virginia,VA,Ashburn,One Loudoun,20347 Exchange Street,20147,Mon - Sun 10:30am - 9:00pm,FALSE
+Virginia,VA,Arlington,Pentagon City,"575 12th Rd South, Suite B2",22202,Mon - Fri 10:30am - 8:30pm Sat - Sun 10:30am - 7:00pm,FALSE
+Virginia,VA,Tysons,Pike 7 Plaza,8405 Leesburg Pike,22182,Mon - Sun 10:00am - 10:00pm,FALSE
+Virginia,VA,Reston,Reston,1824 Library St,20190,Mon - Sun 9:30am - 9:00pm,FALSE
+Virginia,VA,Arlington,Rosslyn,1800 N Lynn St,22209,Mon - Sun 10:00am - 9:00pm,FALSE
+Virginia,VA,McLean,Tysons Galleria,2001 International Dr,22102,Mon - Sat 10:30am - 8:00pm Sun 11:00am - 6:00pm,FALSE
+Washington,WA,Seattle,11th + Pine,"1530 11th Avenue, Suite A",98122,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+Washington,WA,Seattle,South Lake Union,801 Lenora Street,98121,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+Washington,WA,Kirkland,Totem Lake,11900 Northeast Village Plaza suite 164,98034,Mon - Fri 10:00am - 10:00pm Sat - Sun 10:30am - 10:00pm,FALSE
+Wisconsin,WI,Brookfield,Brookfield,"20330 West Lord Street, Suite G117",53045,Mon - Sat 10:30am - 9:00pm Sun 10:30am - 6:00pm,FALSE
+Wisconsin,WI,Madison,Hilldale,418 N Midvale Blvd,53705,Mon - Sun 10:00am - 9:00pm,FALSE
+Wisconsin,WI,Madison,Madison,652 State Street,53703,Mon - Sun 10:30am - 9:00pm,FALSE
+Wisconsin,WI,Milwaukee,Third Ward,300 East Buffalo Street,53202,Mon - Fri 10:30am - 9:00pm Sat - Sun 10:30am - 7:00pm,FALSE

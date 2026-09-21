@@ -1,0 +1,173 @@
+chain,state_abbr,city,city_key,n
+chipotle,TX,Cypress,cypress,5
+chipotle,GA,Athens,athens,3
+chipotle,NY,Elmhurst,elmhurst,3
+chipotle,OH,West Chester,west chester,3
+chipotle,CA,City Of Industry,city of industry,2
+chipotle,CA,North Hollywood,north hollywood,2
+chipotle,CA,Sherman Oaks,sherman oaks,2
+chipotle,CA,Valencia,valencia,2
+chipotle,CA,Ventura,ventura,2
+chipotle,CA,Woodland Hills,woodland hills,2
+chipotle,FL,Saint Johns,st johns,2
+chipotle,GA,Augusta,augusta,2
+chipotle,MA,Brighton,brighton,2
+chipotle,MI,Canton,canton,2
+chipotle,MI,Clinton Township,clinton township,2
+chipotle,NE,Elkhorn,elkhorn,2
+chipotle,NJ,Cherry Hill,cherry hill,2
+chipotle,NJ,Edison,edison,2
+chipotle,NJ,Mount Laurel,mt laurel,2
+chipotle,NJ,North Brunswick,north brunswick,2
+chipotle,NJ,Wayne,wayne,2
+chipotle,NY,Amherst,amherst,2
+chipotle,NY,Astoria,astoria,2
+chipotle,NY,Central Valley,central valley,2
+chipotle,NY,Howard Beach,howard beach,2
+chipotle,NY,Jamaica,jamaica,2
+chipotle,PA,Cranberry Township,cranberry township,2
+chipotle,PA,Huntingdon Valley,huntingdon valley,2
+chipotle,PA,Springfield,springfield,2
+chipotle,SC,Indian Land,indian land,2
+chipotle,VA,Chesterfield,chesterfield,2
+chipotle,VA,North Chesterfield,north chesterfield,2
+chipotle,VA,Stafford,stafford,2
+chipotle,AZ,Laveen,laveen,1
+chipotle,CA,Baldwin Hills,baldwin hills,1
+chipotle,CA,Canoga Park,canoga park,1
+chipotle,CA,Chatsworth,chatsworth,1
+chipotle,CA,Corona Del Mar,corona del mar,1
+chipotle,CA,Coronado,coronado,1
+chipotle,CA,Granada Hills,granada hills,1
+chipotle,CA,La Canada Flintridge,la canada flintridge,1
+chipotle,CA,La Jolla,la jolla,1
+chipotle,CA,Panorama City,panorama city,1
+chipotle,CA,Paso Robles,paso robles,1
+chipotle,CA,Porter Ranch,porter ranch,1
+chipotle,CA,San Pedro,san pedro,1
+chipotle,CA,Studio City,studio city,1
+chipotle,CA,Sutter Creek,sutter creek,1
+chipotle,CA,Tarzana,tarzana,1
+chipotle,CA,Van Nuys,van nuys,1
+chipotle,CO,Falcon,falcon,1
+chipotle,FL,Lithia,lithia,1
+chipotle,GA,East Ellijay,east ellijay,1
+chipotle,GA,Macon,macon,1
+chipotle,IN,Camby,camby,1
+chipotle,MA,Dorchester,dorchester,1
+chipotle,MA,Hyannis,hyannis,1
+chipotle,MA,North Dartmouth,north dartmouth,1
+chipotle,MA,North Easton,north easton,1
+chipotle,MD,Forest Hill,forest hill,1
+chipotle,MD,Hanover,hanover,1
+chipotle,MD,Hunt Valley,hunt valley,1
+chipotle,MD,Ijamsville,ijamsville,1
+chipotle,MD,Linthicum Heights,linthicum heights,1
+chipotle,MD,Lutherville Timonium,lutherville timonium,1
+chipotle,MD,Windsor Mill,windsor mill,1
+chipotle,MI,Chesterfield,chesterfield,1
+chipotle,MI,Commerce Township,commerce township,1
+chipotle,MI,Orion,orion,1
+chipotle,MI,Shelby Township,shelby township,1
+chipotle,MI,Washington,washington,1
+chipotle,MI,Waterford,waterford,1
+chipotle,MI,West Bloomfield,west bloomfield,1
+chipotle,MO,O Fallon,o fallon,1
+chipotle,MT,Butte,butte,1
+chipotle,NC,Fort Liberty,ft liberty,1
+chipotle,NH,North Conway,north conway,1
+chipotle,NJ,Belleville,belleville,1
+chipotle,NJ,Bloomfield,bloomfield,1
+chipotle,NJ,Brick,brick,1
+chipotle,NJ,Bridgewater,bridgewater,1
+chipotle,NJ,Cinnaminson,cinnaminson,1
+chipotle,NJ,Clark,clark,1
+chipotle,NJ,Delran,delran,1
+chipotle,NJ,Deptford,deptford,1
+chipotle,NJ,East Brunswick,east brunswick,1
+chipotle,NJ,East Hanover,east hanover,1
+chipotle,NJ,East Windsor,east windsor,1
+chipotle,NJ,Egg Harbor Township,egg harbor township,1
+chipotle,NJ,Hamilton,hamilton,1
+chipotle,NJ,Holmdel,holmdel,1
+chipotle,NJ,Howell,howell,1
+chipotle,NJ,Moorestown,moorestown,1
+chipotle,NJ,North Bergen,north bergen,1
+chipotle,NJ,West Caldwell,west caldwell,1
+chipotle,NJ,West Orange,west orange,1
+chipotle,NV,N. Las Vegas,n las vegas,1
+chipotle,NY,Bayside,bayside,1
+chipotle,NY,Cicero,cicero,1
+chipotle,NY,Clifton Park,clifton park,1
+chipotle,NY,Corona,corona,1
+chipotle,NY,Flushing,flushing,1
+chipotle,NY,Forest Hills,forest hills,1
+chipotle,NY,Fresh Meadows,fresh meadows,1
+chipotle,NY,Glenmont,glenmont,1
+chipotle,NY,Glenville,glenville,1
+chipotle,NY,Grand Island,grand island,1
+chipotle,NY,Henrietta,henrietta,1
+chipotle,NY,Jackson Heights,jackson heights,1
+chipotle,NY,Long Island City,long island city,1
+chipotle,NY,Malta,malta,1
+chipotle,NY,Maspeth,maspeth,1
+chipotle,NY,Mohegan Lake,mohegan lake,1
+chipotle,NY,Queensbury,queensbury,1
+chipotle,NY,Rego Park,rego park,1
+chipotle,NY,Ridgewood,ridgewood,1
+chipotle,NY,Vestal,vestal,1
+chipotle,OH,Anderson,anderson,1
+chipotle,OH,Boardman,boardman,1
+chipotle,OH,Concord Township,concord township,1
+chipotle,OH,Fairfield Township,fairfield township,1
+chipotle,OH,Liberty Township,liberty township,1
+chipotle,OH,Sheffield Village,sheffield village,1
+chipotle,OH,Washington Township,washington township,1
+chipotle,PA,Abington,abington,1
+chipotle,PA,Aston,aston,1
+chipotle,PA,Bensalem,bensalem,1
+chipotle,PA,Dresher,dresher,1
+chipotle,PA,East Liberty,east liberty,1
+chipotle,PA,Feasterville Trevose,feasterville trevose,1
+chipotle,PA,Glen Mills,glen mills,1
+chipotle,PA,Havertown,havertown,1
+chipotle,PA,Hazle Township,hazle township,1
+chipotle,PA,Holmes,holmes,1
+chipotle,PA,Newtown Square,newtown square,1
+chipotle,PA,Sadsbury Township,sadsbury township,1
+chipotle,PA,South Abington Township,south abington township,1
+chipotle,PA,Upper Darby,upper darby,1
+chipotle,PA,Warminster,warminster,1
+chipotle,PA,Warrington,warrington,1
+chipotle,PA,Wexford,wexford,1
+chipotle,RI,Rumford,rumford,1
+chipotle,TN,Antioch,antioch,1
+chipotle,TN,Cordova,cordova,1
+chipotle,TN,Hermitage,hermitage,1
+chipotle,TN,Hixson,hixson,1
+chipotle,TN,Madison,madison,1
+chipotle,TX,Kingwood,kingwood,1
+chipotle,TX,New Caney,new caney,1
+chipotle,VA,Bristow,bristow,1
+chipotle,VA,Dulles,dulles,1
+chipotle,VA,Farmville,farmville,1
+chipotle,VA,Gloucester,gloucester,1
+chipotle,VA,King George,king george,1
+chipotle,VA,Portsmouth,portsmouth,1
+chipotle,VA,Rosslyn,rosslyn,1
+chipotle,VA,Spotsylvania,spotsylvania,1
+chipotle,VA,Wytheville,wytheville,1
+chipotle,WI,Grand Chute,grand chute,1
+sweetgreen,CA,Encino,encino,1
+sweetgreen,CA,Greenbrae,greenbrae,1
+sweetgreen,CA,Studio City,studio city,1
+sweetgreen,CA,Woodland Hills,woodland hills,1
+sweetgreen,FL,Coconut Grove,coconut grove,1
+sweetgreen,MA,Chestnut Hill,chestnut hill,1
+sweetgreen,MI,Shelby Township,shelby township,1
+sweetgreen,NC,West Cary,west cary,1
+sweetgreen,NJ,Montclair,montclair,1
+sweetgreen,NY,Forest Hills,forest hills,1
+sweetgreen,NY,Long Island City,long island city,1
+sweetgreen,OH,Liberty Township,liberty township,1
+sweetgreen,TX,Cypress,cypress,1
