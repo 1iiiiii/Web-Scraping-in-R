@@ -1,8 +1,6 @@
-# [WRITE - headline that states the finding, not the topic]
+# Web Scraping using R
 
-Blog Post 2 (Web Scraping), Computational Methods for Economists.
-
-Post: [WRITE - url]
+Post: [https://1iiiiii.github.io/Personal-Website/blog/posts/post1/]
 
 ## The question
 
@@ -51,23 +49,18 @@ Every script stops rather than warns when a count fails to reconcile, so a
 silent partial parse cannot reach the analysis.
 
 ## Layout
-
 ```
-code/       numbered, run in order; R_SYNTAX.md is working notes
-data/raw/   cached HTML and XML, snapshot-dated, committed on purpose
-data/processed/
-results/figures/
-results/tables/
-NOTES.md    verified page structure, the cleaning traps, and the analysis design
+blog-post-2/
+├── README.md              replication instructions
+├── code/
+│   ├── 01_scrape_sweetgreen.R
+│   ├── 02_scrape_chipotle.R
+│   ├── 03_clean_and_match.R
+│   └── 04_analysis.R
+├── data/
+│   ├── raw/               cached HTML + XML, timestamped, committed
+│   └── processed/         tidy store table, CBSA panel
+└── results/
+    ├── figures/
+    └── tables/
 ```
-
-## Things worth knowing before reading the code
-
-- **43 of 299 Sweetgreen ZIPs render with the leading zero stripped** (`Boston,
-  MA 2109`). Unpadded, a ZIP join silently deletes CT, MA, NH, NJ and RI.
-- **The `<br>` in the address block is the only delimiter between street and
-  city.** Squishing the whole address first makes the split unrecoverable.
-- **Census places alone miss ~9% of stores**, concentrated in NY and New
-  England: boroughs are not places, New England towns are county subdivisions,
-  and consolidated city-counties carry administrative names. `03` handles each
-  separately and writes the residual to `results/tables/unmatched_places.csv`.
