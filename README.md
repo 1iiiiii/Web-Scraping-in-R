@@ -2,13 +2,6 @@
 
 Post: [https://1iiiiii.github.io/Personal-Website/blog/posts/post1/]
 
-## The question
-
-[WRITE - two or three sentences. Sweetgreen has a public target of 1,000 US
-units. Does its own store footprint support that number, and what does
-comparing it with Chipotle's footprint say about whether the target was ever
-the right shape?]
-
 ## Data
 
 | Source | What | Requests | Accessed |
