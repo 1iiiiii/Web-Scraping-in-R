@@ -23,8 +23,6 @@ install.packages(c("tidyverse", "rvest", "xml2", "tidycensus",
                    "tigris", "sf", "broom"))
 ```
 
-A Census API key is required and must be **activated** via the link in the
-signup email. `Sys.getenv("CENSUS_API_KEY")` should return it.
 
 ```r
 source("code/01_scrape_sweetgreen.R")   # -> data/processed/sweetgreen_stores.csv
@@ -32,14 +30,6 @@ source("code/02_scrape_chipotle.R")     # -> data/processed/chipotle_stores.csv
 source("code/03_clean_and_match.R")     # -> data/processed/cbsa_panel.csv
 source("code/04_analysis.R")            # -> results/figures/, results/tables/
 ```
-
-`01` and `02` read from `data/raw/` when it is populated and only fetch when it
-is not, so re-running them costs nothing and changes nothing. `03` downloads
-Census geometry for 49 states on its first run and caches it
-(`options(tigris_use_cache = TRUE)`).
-
-Every script stops rather than warns when a count fails to reconcile, so a
-silent partial parse cannot reach the analysis.
 
 ## Layout
 ```
